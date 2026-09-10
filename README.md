@@ -1,4 +1,4 @@
-# Hi, I'm Arun 👋
+# Hi, I'm Arun Kumar N S👋
 
 ### Computer Science Student | Full-Stack Developer | AI/ML Enthusiast
 
@@ -118,4 +118,6 @@ Focus areas:
 
 ## Connect With Me
 
-[LinkedIn]((https://www.linkedin.com/in/arun-kumar-n-s-277054405/)) · [Email](mailto:arunkumarns806@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/arun-kumar-n-s-277054405/))
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:arunkumarns806@gmail.com)
